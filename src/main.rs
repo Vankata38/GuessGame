@@ -1,11 +1,14 @@
+// External crates
 extern crate rand;
 
+// Use
 use std::cmp::Ordering;
 use std::io;
 use std::io::Write;
 
 use rand::Rng;
 
+// Main function
 fn main() {
 
     // Constants
